@@ -1,24 +1,37 @@
 ---
-layout: post
-title: Example content
+layout: page
+title: Selenium POM and Java
 ---
 
 
 <div class="message">
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  Howdy! This is guide for  Getting Started with WebDriver in Java Using IntelliJ IDE.
 </div>
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Here I will show you how to run WebDriver with Java using IntelliJ IDE.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+You can [download Intellij](https://www.jetbrains.com/idea/download/) community edition for free .
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Pre-requirement for this tutorial:
 
-## Inline HTML elements
+> * Java 8 or higher version
+> * IntelliJ IDE
+> * Maven - A Dependency Manager
+> * Web browser like google chrome and firefox
+> * System variable and environment variable are properly configured.
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
-- **To bold text**, use `<strong>`.
+
+## Getting IntelliJ Idea
+
+
+
+- [Download Intellij IDEA](https://www.jetbrains.com/idea/download/)
+>
+> For this tutorial I used the Community variant on MacBook Pro
+> Installing IntelliJ is a matter of following instructions for the version you’ve downloaded. Starting IntelliJ the first time will prompt you for various defaults (locations, keyboard mappings, etc.). This article uses all default settings.
+
+
 - *To italicize text*, use `<em>`.
 - Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
 - Citations, like <cite>&mdash; Mark otto</cite>, should use `<cite>`.
